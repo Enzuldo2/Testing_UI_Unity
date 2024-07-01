@@ -1,0 +1,1 @@
+The game is a "copy" of fruit Ninja, the code is in assets/scripts, the code has a simple Interface with Music and sound effects. You can pause the game using ESC, and you can choose the difficulty in the Interface.
